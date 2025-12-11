@@ -23,3 +23,29 @@ No personal or sensitive information is included. All analysis is strictly techn
 
 <hr/>
 
+<h3>Acknowledgements</h3>
+
+<p>
+  This project is based on the Robot Execution Failures dataset from the UCI Machine Learning Repository 
+  (Lopes, L. S., & Camarinha-Matos, L. M., 1999). The dataset served as the foundation for exploring 
+  feature relationships, model behaviour, and experimental evaluation across 16 failure types using 
+  force and torque sensor data.
+</p>
+
+<p>
+  The implementation utilises scikit-learn, pandas, NumPy, Matplotlib, Seaborn, and XGBoost, 
+  following standard machine learning workflows for classification tasks. The robot arm demonstration 
+  (AT_RobotArmExp_V11) was developed to physically illustrate the failure patterns identified through 
+  the ML analysis.
+</p>
+
+<p>
+  Robot design: EEZYbotARM MK2 by daGHIZmo  
+  (<a href="https://www.thingiverse.com/thing:1454048">https://www.thingiverse.com/thing:1454048</a>)
+</p>
+
+<p>
+  This project was completed as part of a Level 5 AI and Machine Learning Bootcamp, with the goal 
+  of creating a learning resource that demonstrates end-to-end machine learning workflows for 
+  developers new to the field.
+</p>
